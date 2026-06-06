@@ -1,0 +1,6 @@
+vm-test
+.vagrant
+.env
+__pycache__/
+*.py[cod]
+sql/*.sql
